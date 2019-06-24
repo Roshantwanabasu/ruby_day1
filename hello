@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+puts "hello world"
+
+
+#ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Ro&h@n!23';
